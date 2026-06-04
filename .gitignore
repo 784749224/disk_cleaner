@@ -1,0 +1,21 @@
+# Python bytecode and cache directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller build outputs
+build/
+dist/
+*.manifest
+
+# Local editor and OS files
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
