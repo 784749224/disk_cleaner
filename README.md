@@ -15,21 +15,21 @@
 
 ## 截图
 
-截图文件建议放在 `docs/screenshots/` 目录下，推荐命名如下：
+### 安全清理
 
-- `safe-clean.png`：安全清理
-- `space-analysis.png`：空间分析
-- `large-files.png`：大文件扫描
-- `installed-software.png`：已安装软件
-
-上传截图后，可以把下面的注释取消并显示在 GitHub 首页：
-
-```markdown
 ![安全清理](docs/screenshots/safe-clean.png)
+
+### 空间分析
+
 ![空间分析](docs/screenshots/space-analysis.png)
+
+### 大文件扫描
+
 ![大文件扫描](docs/screenshots/large-files.png)
+
+### 已安装软件
+
 ![已安装软件](docs/screenshots/installed-software.png)
-```
 
 ## 运行环境
 
